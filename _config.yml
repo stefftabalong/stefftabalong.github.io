@@ -1,0 +1,4 @@
+markdown: redcarpet
+
+#ignore files
+exclude: ['README.md']
