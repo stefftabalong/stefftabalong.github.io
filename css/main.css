@@ -2317,6 +2317,7 @@ a.button.colored {
     border-color: #EE8F8F
 }
 .alert.error:before {
+    color: #EE8F8F;
     content: "\f06a"
 }
 .alert strong {
@@ -4001,16 +4002,16 @@ a:hover {
     background: #FFFFCF;
 }
 .color1 i {
-    background: #F8CB30;
+    background: #FF6356;
 }
 .color2 i {
-    background: #74BADE;
+    background: #EC9638;
 }
 .color3 i {
-    background: #79586F;
+    background: #2B62A0;
 }
 .color4 i {
-    background: #E25E5B;
+    background: #ED5B61;
 }
 .navigation a:hover,
 .pagination a:hover,
