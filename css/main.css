@@ -2303,7 +2303,9 @@ a.button.colored {
     border-color: #AEE2A3
 }
 .alert.success:before {
-    content: "\f087"
+    font-family: 'fontello';
+    color: #AEE2A3;
+    content: "\e801"
 }
 .alert.info {
     border-color: #E4E6C4
